@@ -1,0 +1,7 @@
+opencv-python
+torch
+mtcnn
+facenet-pytorch
+numpy
+Pillow
+pandas
